@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mocchama (Vivi 🦔)
-- 👀 I’m interested in drawing!
-- 🌱 I’m currently learning python and html
-- 📫 Reach me! viviengyurkovics15@gmail.com 
+- 🌸 Hi, I’m @Mocchama (Vivi 🦔)
+- 🌸 I’m interested in drawing!
+- 🌸 I’m currently learning python and html
+- 🌸 Reach me! viviengyurkovics15@gmail.com 
 
 <!---
 Mocchama/Mocchama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
