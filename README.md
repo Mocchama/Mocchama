@@ -1,5 +1,4 @@
 - 🌸 Hi, I’m @Mocchama
-- 🌸 I’m interested in drawing!
 - 🌸 I’m currently learning python and html
 - 🌸 Reach me! viviengyurkovics15@gmail.com 
 
